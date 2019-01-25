@@ -1,0 +1,5 @@
+pring:
+
+  application:
+
+    name: microservicecloud-config-eureka-client
